@@ -1,3 +1,2 @@
 # output
-practice makes me perfect 
-yes 
+practice makes me perfect
